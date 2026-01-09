@@ -1,6 +1,6 @@
-# Deep Value Research
+# Deep Value Research Repository
 
-An open-source collection of deep value investment research, focusing on fundamental analysis, market insights, and timeless value investing principles.
+An open-source collection of contrarian deep value investment research, focusing on fundamental analysis, market insights, and timeless value investing principles.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202026-blue)
@@ -69,10 +69,11 @@ Analysis of strategies, portfolios, and memos from legendary investors:
 
 Timely analysis of macro trends, market conditions, and economic developments:
 
-- **Jan 2026**: Weekly Memorandum (Dec 13, 2026 - *Note: Future dated items may represent projections or specific research scenarios*)
+- **Jan 2026**: [Weekly Memorandum](Market%20Research/Weekly%20Memorandum%20(Dec-13-2026).md) (Note: Future dated items may represent projections or specific research scenarios)
 - **Dec 2025**:
   - [FOMC Rate Decision and Outlook](Market%20Research/FOMC%20Rate%20Decision%20and%20Outlook%20(2025-12-10).md)
   - [Howard Marks on AI Bubble](Market%20Research/Howard%20Marks%20on%20AI%20Bubble%20(2025-12-09).md)
+  - [Howard Marks: An Investment Philosophy](Market%20Research/Howard%20Marks_%20An%20Investment%20Philosophy.md)
   - [Buffett Indicator & Shiller PE Analysis](Market%20Research/Buffett%20Indicator,%20Shiller%20PE%20Analysis%20(2025-12-06).md)
   - [Housing Market Issues Explained](Market%20Research/Housing%20Market%20Issues%20Explained%20(2025-12-06).md)
 - **Nov 2025**:
@@ -88,13 +89,16 @@ Educational resources and theses on fundamental investing concepts, categorized 
 **Financial Statement Analysis:**
 - [Understanding the Balance Sheet](Value%20Investing%20Principles/%5BBalance%20Sheet%5D%20Understanding%20the%20Balance%20Sheet%20-%20Assets,%20Liabilities,%20and%20Equity.md)
 - [Hunting Cockroaches (Income Statement Risks)](Value%20Investing%20Principles/%5BIncome%20Statement%5D%20Hunting%20Cockroaches_%20Finding%20Hidden%20Risks%20in%20Financial%20Footnotes.md)
-- [Cash-Flow-Centric Framework](Value%20Investing%20Principles/%5BCash%20Flow%5D%20Investment%20Memorandum_%20A%20Cash-Flow-Centric%20Framework%20for%20Assessing%20Corporate%20Health.md)
+- [Cash-Flow-Centric Framework (Memo)](Value%20Investing%20Principles/%5BCash%20Flow%5D%20Investment%20Memorandum_%20A%20Cash-Flow-Centric%20Framework%20for%20Assessing%20Corporate%20Health.md)
+- [Cash-First Framework (Thesis)](Value%20Investing%20Principles/Investment%20Thesis_%20A%20Cash-First%20Framework%20for%20Corporate%20Evaluation.md)
 
 **Valuation & Metrics:**
 - [Reverse DCF vs. Traditional DCF](Value%20Investing%20Principles/%5BDCF%5D%20Reverse%20DCF%20vs.%20Traditional%20DCF.md)
 - [The Cash Flow Imperative (FCF)](Value%20Investing%20Principles/%5BFCF%5D%20The%20Cash%20Flow%20Imperative_%20An%20Investment%20Thesis%20on%20Why%20Free%20Cash%20Flow%20Supersedes%20Profit%20as%20the%20Ultimate%20Measure%20of%20Value.md)
 - [Critical Analysis of P/E Ratio](Value%20Investing%20Principles/%5BP:E%5D%20Investment%20Memo_%20A%20Critical%20Analysis%20of%20the%20Price-to-Earnings%20(P_E)%20Ratio.md)
+- [P/E Ratio Fatal Flaw](Value%20Investing%20Principles/%5BP:E%5D%20The%20Fatal%20Flaw%20in%20Wall%20Street's%20Favorite%20Valuation%20Formula.md)
 - [Price-to-Book Ratio Exposed](Value%20Investing%20Principles/%5BP:B%5D%20Price-to-Book%20Ratio%20Exposed_%20The%20Superior%20Economics%20of%20Light-Asset%20Business%20Models.md)
+- [Light-Asset Thesis (P/B)](Value%20Investing%20Principles/%5BP:B%5D%20The%20Light-Asset%20Thesis_%20Why%20a%20High%20Price-to-Book%20Ratio%20Can%20Signal%20a%20Superior%20Investment.md)
 - [Valuing Growth with P/S Ratio](Value%20Investing%20Principles/%5BPS%20Ratio%5D%20Valuing%20Growth%20Over%20Profitability%20with%20the%20Price-to-Sales%20Ratio.md)
 - [Net Current Asset Value (NCAV)](Value%20Investing%20Principles/%5BNCAV%5D%20Investment%20Thesis_%20The%20Net%20Current%20Asset%20Value%20(NCAV)%20Strategy.md)
 
@@ -103,12 +107,19 @@ Educational resources and theses on fundamental investing concepts, categorized 
 - [Identifying Sustainable High-Yield Dividends](Value%20Investing%20Principles/%5BDivident%5D%20A%20Framework%20for%20Identifying%20Sustainable%20High-Yield%20Dividends.md)
 - [Beyond Dividends (Shareholder Yield)](Value%20Investing%20Principles/%5BDividends%5D%20Beyond%20Dividends_%20An%20Investment%20Thesis%20on%20the%20Superiority%20of%20Shareholder%20Yield.md)
 - [Economic Goodwill](Value%20Investing%20Principles/%5BGoodwill%5D%20An%20Investment%20Thesis%20on%20Acquiring%20Companies%20with%20High%20Economic%20Goodwill.md)
+- [Options Trading (Landlord Analogy)](Value%20Investing%20Principles/%5BOptions%5D%20What%20a%20Landlord,%20an%20Ice%20Cube,%20and%20a%20Steamroller%20Can%20Teach%20You%20About%20Options%20Trading.md)
+- [Distressed Debt: AMZN Case Study](Value%20Investing%20Principles/%5BBond%5D%20Berkshire%20Hathaway's%20Distressed%20Debt%20Investment%20in%20Amazon%20(2001-2002).md)
 
-**Risk & Philosophy:**
+**Risk, Philosophy & Strategy:**
+- [Buffett-Munger Framework](Value%20Investing%20Principles/Investment%20Philosophy%20Memo_%20An%20Analysis%20of%20the%20Buffett-Munger%20Framework.md)
 - [Beyond Beta (True Nature of Risk)](Value%20Investing%20Principles/%5BBeta%5D%20Beyond%20Beta_%20An%20Investment%20Thesis%20on%20the%20True%20Nature%20of%20Risk.md)
+- [Hidden Risks of High ROE](Value%20Investing%20Principles/%5BROE%5D%20The%20Hidden%20Risks%20of%20High%20ROE%20and%20Financial%20Leverage.md)
 - [Identifying Durable Competitive Advantages (Moat)](Value%20Investing%20Principles/%5BMoat%5D%20Identifying%20Durable%20Competitive%20Advantages%20for%20Long-Term%20Growth.md)
 - [The Internal Scorecard](Value%20Investing%20Principles/The%20Internal%20Scorecard_%20A%20Philosophy%20for%20Long-Term%20Value%20Investing.md)
+- [Understanding Berkshire Hathaway](Value%20Investing%20Principles/Understanding%20Berkshire%20Hathaway_%20More%20Than%20a%20Fund,%20It's%20a%20Money%20Machine.md)
 - [When does Buffett Sell?](Value%20Investing%20Principles/When%20does%20Buffett%20Sell?.md)
+- [Case Study: Meta & Manus AI](Value%20Investing%20Principles/%5BInvestment%20Analysis%5D%20Meta's%20Strategic%20Acquisition%20of%20Manus%20AI.md)
+- [Case Study: CMG Balance Sheet](Value%20Investing%20Principles/%5BBalance%20Sheet%5D%20An%20Investment%20Thesis%20on%20Chipotle%20Mexican%20Grill%20(CMG)%20Through%20the%20Lens%20of%20Warren%20Buffett's%20Balance%20Sheet%20Principles.md)
 
 ### Warren Buffett Archive
 
