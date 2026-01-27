@@ -36,6 +36,7 @@ In-depth financial analysis and fundamental research on individual companies, in
 
 - **[AAPL (Apple)](Business%20Research/AAPL%20(Apple)/)** - Intrinsic Value Analysis (Buffett-Style) and comprehensive financial metrics visuals.
 - **[AMZN (Amazon)](Business%20Research/AMZN%20(Amazon)/)** - Q3 2025 analysis, including AWS and ad segment breakdowns.
+- **[APP (AppLovin)](Business%20Research/APP%20(AppLovin)/)** - Financial Research Request (Jan 2026).
 - **[BIDU (Baidu)](Business%20Research/BIDU%20(Baidu)/)** - Buffett-Style Intrinsic Value Analysis (Jan 2026).
 - **[DIS (Disney)](Business%20Research/DIS%20(Disney)/)** - Intrinsic Value Analysis (Dec 2025).
 - **[DOCU (Docusign)](Business%20Research/DOCU%20(Docusign)/)** - Q3 2025 research.
@@ -62,6 +63,7 @@ Each company analysis typically includes:
 Analysis of strategies, portfolios, and philosophies of legendary investors and thinkers:
 
 - **Charlie Munger**:
+  - [The Munger Model: Early-Stage Wealth Accumulation](Guru%20Research/Charlie%20Munger/The%20Munger%20Model_%20An%20Investment%20Thesis%20on%20Early-Stage%20Wealth%20Accumulation.md)
   - [Munger's Almanack](Guru%20Research/Charlie%20Munger/Munger's%20Almanack.md)
   - [A Modern Philosopher of Practical Wisdom](Guru%20Research/Charlie%20Munger/Charlie%20Munger_%20A%20Modern%20Philosopher%20of%20Practical%20Wisdom.md)
   - [The Buffett-Munger Framework](Guru%20Research/Charlie%20Munger/An%20Analysis%20of%20the%20Buffett-Munger%20Framework.md)
@@ -93,6 +95,7 @@ Analysis of strategies, portfolios, and philosophies of legendary investors and 
 Timely analysis of macro trends, market conditions, and economic developments:
 
 - **Jan 2026**:
+  - [Bubble Watch 2026-01-26: Risks of Concentration, Passive Investing & Narratives](Market%20Research/%5BBubble%20Watch%202026-01-26%5D%20The%20Interconnected%20Risks%20of%20Concentration,%20Passive%20Investing,%20and%20Shifting%20Narratives.md)
   - [Weekly Bubble Watch 2026-01: Navigating Financial Repression](Market%20Research/%5BWeekly%20Bubble%20Watch%202026-01%5D%20Navigating%20the%20Era%20of%20Financial%20Repression%20(2026-2056).md)
   - [Weekly Memorandum (Dec 13, 2026)](Market%20Research/Weekly%20Memorandum%20(Dec-13-2026).md)
   - [Bridgewater & Oaktree: Post-Mortem of Failed China Investment Theses (2020-2026)](Market%20Research/Bridgewater%20and%20Oaktree's%20POST-MORTEM%20ANALYSIS%20OF%20FAILED%20CHINA%20INVESTMENT%20THESES%20(2020-2026).md)
@@ -169,7 +172,8 @@ Collection of Warren Buffett's Partnership Letters (1956-1970):
 ## Recent Highlights
 
 - **January 2026**:
-  - TSLA, JRVR, BIDU, NFLX, and INTC Deep Value Analyses
+  - New Research: APP (AppLovin), Bubble Watch on Passive Investing, and Munger Model (Wealth Accumulation)
+  - Deep Value Analyses: TSLA, JRVR, BIDU, NFLX, INTC
   - Weekly Bubble Watch & Bridgewater China Post-Mortem
   - Guy Spier's Portfolio Analysis & Tom Murphy Profile
 - **December 2025**:
