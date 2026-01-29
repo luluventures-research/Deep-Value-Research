@@ -45,11 +45,14 @@ In-depth financial analysis and fundamental research on individual companies, in
 - **[INTU (Intuit)](Business%20Research/INTU%20(Intuit)/)** - Buffett-Style Valuation Analysis.
 - **[JRVR (James River Group)](Business%20Research/JRVR%20(James%20River%20Group)/)** - Buffett's Intrinsic Value Analysis (Jan 2026).
 - **[LULU (Lululemon)](Business%20Research/LULU%20(Lululemon)/)** - Deep value forensic investing report for Q3 2025 (English & Chinese).
+- **[META (Meta)](Business%20Research/META%20(META)/)** - Financial Research Request (Jan 28, 2026).
+- **[MSFT (Microsoft)](Business%20Research/MSFT%20(Microsoft)/)** - Decadal Analysis, Future Outlook, and Financial Research Report (Jan 28, 2026).
 - **[NFLX (Netflix)](Business%20Research/NFLX%20(Netflix)/)** - Q4 2025 Financial Research Report & Buffett/Growth Framework Analysis (Jan 2026).
 - **[NKE (Nike)](Business%20Research/NKE%20(Nike)/)** - Deep Value Report Q3 2025.
 - **[NVDA (Nvidia)](Business%20Research/NVDA%20(Nvidia)/)** - Comprehensive Q3 2025 earnings analysis with 33+ financial metrics.
 - **[PYPL (PayPal)](Business%20Research/PYPL%20(PayPal)/)** - Buffett-Style Deep Value Analysis.
-- **[TSLA (Tesla)](Business%20Research/TSLA%20(Tesla)/)** - Deep Financial Research (Jan 2026).
+- **[TSLA (Tesla)](Business%20Research/TSLA%20(Tesla)/)** - Q4 2025 Deep Financial Research, Analysis, and Deep Dive (Jan 2026).
+- **[UNH (United HealthCare)](Business%20Research/UNH%20(United%20HealthCare)/)** - Strategic Post-Mortem of "Great Reset" & Q4 2025 Deep Value Analysis.
 
 Each company analysis typically includes:
 - Detailed earnings summaries and financial metrics
@@ -172,10 +175,10 @@ Collection of Warren Buffett's Partnership Letters (1956-1970):
 ## Recent Highlights
 
 - **January 2026**:
-  - New Research: APP (AppLovin), Bubble Watch on Passive Investing, and Munger Model (Wealth Accumulation)
-  - Deep Value Analyses: TSLA, JRVR, BIDU, NFLX, INTC
-  - Weekly Bubble Watch & Bridgewater China Post-Mortem
-  - Guy Spier's Portfolio Analysis & Tom Murphy Profile
+  - New Research: UNH, MSFT, META, APP
+  - Deep Value Analyses: TSLA (Q4 Update), NFLX, INTC, JRVR, BIDU
+  - Market Insights: Bubble Watch (Passive Investing Risks), China Investment Post-Mortem
+  - Guru Insights: Munger's Wealth Accumulation Model, Spier Portfolio, Tom Murphy
 - **December 2025**:
   - FOMC rate decision analysis
   - Lululemon (LULU) Q3 2025 forensic deep value report
