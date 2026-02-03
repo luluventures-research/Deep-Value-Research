@@ -34,7 +34,7 @@ This repository serves as a comprehensive resource for investors interested in d
 
 In-depth financial analysis and fundamental research on individual companies, including earnings reports, intrinsic value analysis, and deep dives:
 
-- **[AAPL (Apple)](Business%20Research/AAPL%20(Apple)/)** - Intrinsic Value Analysis (Buffett-Style) and comprehensive financial metrics visuals.
+- **[AAPL (Apple)](Business%20Research/AAPL%20(Apple)/)** - Q4 2025 Financial Research, Deep Value Intelligence, and Intrinsic Value Analysis.
 - **[AMZN (Amazon)](Business%20Research/AMZN%20(Amazon)/)** - Q3 2025 analysis, including AWS and ad segment breakdowns.
 - **[APP (AppLovin)](Business%20Research/APP%20(AppLovin)/)** - Financial Research Request (Jan 2026).
 - **[BIDU (Baidu)](Business%20Research/BIDU%20(Baidu)/)** - Buffett-Style Intrinsic Value Analysis (Jan 2026).
@@ -45,6 +45,7 @@ In-depth financial analysis and fundamental research on individual companies, in
 - **[INTU (Intuit)](Business%20Research/INTU%20(Intuit)/)** - Buffett-Style Valuation Analysis.
 - **[JRVR (James River Group)](Business%20Research/JRVR%20(James%20River%20Group)/)** - Buffett's Intrinsic Value Analysis (Jan 2026).
 - **[LULU (Lululemon)](Business%20Research/LULU%20(Lululemon)/)** - Deep value forensic investing report for Q3 2025 (English & Chinese).
+- **[MA (MasterCard)](Business%20Research/MA%20(MasterCard)/)** - Q4 2025 Financial Research & Deep Value Intelligence (Jan 2026).
 - **[META (Meta)](Business%20Research/META%20(META)/)** - Financial Research Request (Jan 28, 2026).
 - **[MSFT (Microsoft)](Business%20Research/MSFT%20(Microsoft)/)** - Decadal Analysis, Future Outlook, and Financial Research Report (Jan 28, 2026).
 - **[NFLX (Netflix)](Business%20Research/NFLX%20(Netflix)/)** - Q4 2025 Financial Research Report & Buffett/Growth Framework Analysis (Jan 2026).
@@ -65,6 +66,8 @@ Each company analysis typically includes:
 
 Analysis of strategies, portfolios, and philosophies of legendary investors and thinkers:
 
+- **Ashwath Damodaran**:
+  - [AI Market Dynamics: Valuation, Delusion, and Investment Strategy](Guru%20Research/Ashwath%20Damodaran/%5BAshwath%20Damodaran%5D%20AI%20Market%20Dynamics_%20An%20Analysis%20of%20Valuation,%20Delusion,%20and%20Investment%20Strategy.md)
 - **Charlie Munger**:
   - [The Munger Model: Early-Stage Wealth Accumulation](Guru%20Research/Charlie%20Munger/The%20Munger%20Model_%20An%20Investment%20Thesis%20on%20Early-Stage%20Wealth%20Accumulation.md)
   - [Munger's Almanack](Guru%20Research/Charlie%20Munger/Munger's%20Almanack.md)
@@ -168,17 +171,17 @@ Collection of Warren Buffett's Partnership Letters (1956-1970):
 - **Visual Data**: Professional charts and visualizations for all key financial indicators
 - **Bilingual Content**: Research available in both English and Chinese (中文) for select reports
 - **Contrarian Framework**: Deep value and forensic investing approach
-- **Guru Insights**: Research on the strategies of Munger, Soros, Druckenmiller, Weschler, Spier, Murphy and others
+- **Guru Insights**: Research on the strategies of Munger, Soros, Druckenmiller, Weschler, Spier, Murphy, Damodaran and others
 - **Educational Resources**: Practical guides on balance sheet analysis, DCF valuation, and value investing principles
 - **Historical Archive**: Complete collection of Warren Buffett Partnership Letters (1956-1970)
 
 ## Recent Highlights
 
 - **January 2026**:
-  - New Research: UNH, MSFT, META, APP
+  - New Research: MA (MasterCard), AAPL (Q4 Update), UNH, MSFT, META, APP
   - Deep Value Analyses: TSLA (Q4 Update), NFLX, INTC, JRVR, BIDU
   - Market Insights: Bubble Watch (Passive Investing Risks), China Investment Post-Mortem
-  - Guru Insights: Munger's Wealth Accumulation Model, Spier Portfolio, Tom Murphy
+  - Guru Insights: Ashwath Damodaran on AI, Munger's Wealth Accumulation Model, Spier Portfolio, Tom Murphy
 - **December 2025**:
   - FOMC rate decision analysis
   - Lululemon (LULU) Q3 2025 forensic deep value report
