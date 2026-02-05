@@ -40,7 +40,7 @@ In-depth financial analysis and fundamental research on individual companies, in
 - **[APP (AppLovin)](Business%20Research/APP%20(AppLovin)/)** - Financial research request (Jan 2026).
 - **[BIDU (Baidu)](Business%20Research/BIDU%20(Baidu)/)** - Buffett-style intrinsic value analysis (Jan 2026).
 - **[DIS (Disney)](Business%20Research/DIS%20(Disney)/)** - Q3 2025 intrinsic value analysis and Q4 2025 deep value intelligence (Feb 2026).
-- **[GOOGL (Alphabet)](Business%20Research/GOOGL%20(Alphabet)/)** - AI revolution in digital advertising and monetization paradigm.
+- **[GOOGL (Alphabet)](Business%20Research/GOOGL%20(Alphabet)/)** - AI revolution in digital advertising and monetization paradigm; Q4 2025 financial research request, deep value analysis, and deep value intelligence (Feb 2026).
 - **[INTC (Intel)](Business%20Research/INTC%20(Intel)/)** - Deep dive financial research report and long-term performance analysis (Jan 2026).
 - **[INTU (Intuit)](Business%20Research/INTU%20(Intuit)/)** - Buffett-style valuation analysis (Q3 2025).
 - **[JRVR (James River Group)](Business%20Research/JRVR%20(James%20River%20Group)/)** - Buffett's intrinsic value analysis (Jan 2026).
@@ -185,7 +185,7 @@ Collection of Warren Buffett's Partnership Letters (1956-1970):
 ## Recent Highlights
 
 - **February 2026**:
-  - New Research: PLTR, AMD, PYPL, DIS (Q4 updates)
+  - New Research: GOOGL, PLTR, AMD, PYPL, DIS (Q4 updates)
 - **January 2026**:
   - New Research: MA (MasterCard), AAPL (Q4 Update), UNH, MSFT, META, APP
   - Deep Value Analyses: TSLA (Q4 Update), NFLX, INTC, JRVR, BIDU
